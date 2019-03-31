@@ -6,7 +6,7 @@ description: <a href="https://www.analog.com/en/index.html">Analog Devices</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
