@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Sharvil Patil
+title: sharvilpatil.github.io
 email: Sharvil.patil@analog.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -29,6 +30,7 @@ contact_note: >
   Best way to reach me is via email. I usually reply within a couple of days. 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
+repo: https://github.com/sharvilpatil/
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -61,10 +63,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: True
     permalink: /news/:path/
   projects:
-    output: true
+    output: False
     permalink: /projects/:path/
 
 news_limit: 5
