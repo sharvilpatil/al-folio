@@ -1,12 +1,12 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Sharvil</strong> Patil
+description: <a href="https://www.analog.com/en/index.html">Analog Devices</a>. Toronto, Canada.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
